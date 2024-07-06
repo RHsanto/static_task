@@ -1,0 +1,27 @@
+
+/* Importing Fonts */
+@font-face {
+  font-family: 'Boska';
+  src: url('../assets/fonts/boska/Boska-Variable.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Switzer';
+  src: url('../assets/fonts/switzer/Switzer-Variable.ttf') format('truetype');
+  
+}
+.primary_color{
+  color: #75FF69;
+}
+.secondary_color{
+  color: #1B3936;
+}
+.white_color{
+  color: white;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
